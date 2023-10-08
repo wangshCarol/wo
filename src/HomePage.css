@@ -1,0 +1,35 @@
+.cssa-homepage {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  header {
+    background-color: #a31f1f;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+    font-weight: bold;
+    color: #a31f1f;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #a31f1f;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
